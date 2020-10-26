@@ -1,2 +1,2 @@
 # cephaNN
-Any questions you can leave the questions in Issues.
+If you have any questions, please contact me.
